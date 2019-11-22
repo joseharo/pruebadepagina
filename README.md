@@ -1,1 +1,1 @@
-# pruebadepagina
+Git es un sistema de control de versiones en el cual se permite hacer commits o snapshots en diferentes estados del proyecto.
